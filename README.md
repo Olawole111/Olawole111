@@ -5,7 +5,7 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Express, MongoDB, nodejs.
+- 🌱 I’m currently learning JavaScript, Express, MongoDB, nodejs,postgres.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, backend (Junior level).
 - 📫 You can contact me by emailing kunlekzi2@gmail.com.
